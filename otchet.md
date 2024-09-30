@@ -23,9 +23,8 @@ echo "Welcome to ITMO University"
 ```bash
 bash script.bash
 ```
- ├─ images
-     └─ ![Screenshot from 2024-09-30 09-26-44](https://github.com/user-attachments/assets/34f0c2f5-4d93-4a71-b86b-fa6a54931b99)
- ├─ otchet.md
+ ![Screenshot from 2024-09-30 09-26-44](https://github.com/user-attachments/assets/34f0c2f5-4d93-4a71-b86b-fa6a54931b99)
+ 
 
  ### Задача
 
