@@ -50,6 +50,8 @@ bash script.bash Vasya Pupkin
  5. После перехода на новую строку, программа выводит
 `Welcome, Vasya Pupkin`
 
+![Screenshot from 2024-09-30 09-32-07](https://github.com/user-attachments/assets/0e055f39-a136-4cd7-805f-61088a6d93ba)
+
 
 
 
