@@ -5,7 +5,7 @@
 touch script.bash
 ```
 
-2. Открываю созданный файл `scrip.bash` через команду `nano`
+2. Открываю созданный файл `scrip.bash` через команду `nano` (gedid не сработал, nano нашла на сайте)
 ``` bash
 nano script.bash
 ```
